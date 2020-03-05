@@ -1,5 +1,4 @@
 # Info-2019_Petit_Robot
-Code for an Arduino based small robot inclunding PID and some sensors
 
 
 
@@ -8,4 +7,4 @@ Code for an Arduino based small robot inclunding PID and some sensors
 * Petit_Robot/Petit_Robot.ino : Programme principale pour la coupe 2019
 * Petit_Robot/Petit_Robot-TNEV.ino : Programme alternatif pour réaliser le slalom de TNEV et leur montrer que c'est pas compliqué (et se moquer. un peu.)
 
-La toolchain Arduino n'accepte qu'un seul fichier .ino, il faut donc renommer (.bak) l'un des deux fichiers pour compiler avec l'autre.
+Note: La toolchain Arduino n'accepte qu'un seul fichier .ino, il faut donc renommer (.bak) l'un des deux fichiers pour compiler avec l'autre.
